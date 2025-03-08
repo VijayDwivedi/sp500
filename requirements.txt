@@ -3,7 +3,4 @@ pandas
 numpy
 yfinance
 plotly
-newsapi
-vaderSentiment
-plotly_express
-pyxirr
+matplotlib
